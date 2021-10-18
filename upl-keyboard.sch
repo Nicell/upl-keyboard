@@ -19,7 +19,7 @@ U 1 1 616DA8F8
 P 6000 1950
 F 0 "U1" H 6000 2787 60  0000 C CNN
 F 1 "ProMicro" H 6000 2681 60  0000 C CNN
-F 2 "Keebio-Parts:ArduinoProMicro" V 7050 -550 60  0001 C CNN
+F 2 "Keebio-Parts:ArduinoProMicro-BackSide" V 7050 -550 60  0001 C CNN
 F 3 "" V 7050 -550 60  0001 C CNN
 	1    6000 1950
 	1    0    0    -1  
